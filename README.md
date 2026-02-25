@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00599C&background=0D111700&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Applications+%E2%9A%A1" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00599C&background=0D111700&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Applications+%E2%9A%A1" alt="Typing Animation" />
 </a>
 <h1>MUHAMMAD IMRAN BUTT</h1>
 <p align="center">
@@ -50,7 +50,7 @@ Currently advancing expertise in **ML models, AI-based automation, and secure ap
 | **FocusFlow App** | `C++` `STL` `OpenSSL` `libcurl` `SAPI` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Focus-Flow) |
 | **Diabetes ML Predictor** | `Python` `ML` `Naive Bayes` `KNN` `Random Forest` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Diabetes-ML-Predictor) |
 | **University Management System** | `C++` `OOP` `File Handling` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/OOP_PROJECT_University_Management_System) |
-| **Smart City Simulator** | `C++` `STL` `OOP` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/SmartCitySimulator) |
+| **Smart City Simulator** | `Python` `OOP` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/SmartCitySimulator) |
 
 ---
 
