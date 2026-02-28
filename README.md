@@ -33,7 +33,6 @@ Currently advancing expertise in **ML models, AI-based automation, and secure ap
 | **💻 Programming Languages** | <img src="https://skillicons.dev/icons?i=cpp,python" /> <br> `C++` `Python` |
 | **⚙️ Core Concepts** | `OOP` `STL` `File Handling` `Encryption` |
 | **🤖 ML Models** | `Naive Bayes` `KNN` `Random Forest` |
-| **🛠️ Libraries & Tools** | `OpenSSL` `libcurl` `SAPI` |
 | **🔧 Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br> `Git/GitHub` `VS Code` |
 
 ---
