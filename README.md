@@ -47,9 +47,8 @@ Currently advancing expertise in **ML models, AI-based automation, and secure ap
 | Project | Tech Stack | Status | Repository |
 | :--- | :--- | :--- | :--- |
 | **FocusFlow App** | `C++` `STL` `OpenSSL` `libcurl` `SAPI` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Focus-Flow) |
-| **Diabetes ML Predictor** | `Python` `ML` `Naive Bayes` `KNN` `Random Forest` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Diabetes-ML-Predictor) |
+| **Smart-ML-Predictorr** | `Python` `ML` `Logistic Regression` `KNN` ` Decision Tree` `Random Forest`  | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [Live Demo](https://imran-dev-smartmlpredictor.streamlit.app/) |
 | **University Management System** | `C++` `OOP` `File Handling` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/OOP_PROJECT_University_Management_System) |
-| **Smart City Simulator** | `Python` `OOP` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/SmartCitySimulator) |
 
 ---
 
