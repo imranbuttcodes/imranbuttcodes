@@ -1,17 +1,20 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00599C&background=0D111700&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Applications+%E2%9A%A1" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00599C&background=0D111700&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Applications+%E2%9A%A1" alt="Typing Animation" />
 </a>
+
 <h1>MUHAMMAD IMRAN BUTT</h1>
+
 <p align="center">
   Always growing — a CS student who loves writing clean <b>C++</b> code, experimenting with <b>Python</b>, and exploring <b>Machine Learning</b>.
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-imran-butt-b98770341" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:imrancodes0546@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 </div>
@@ -19,10 +22,10 @@
 ---
 
 ### 📖 A Bit About Me
-Passionate C++ Developer and ML Enthusiast dedicated to building **clean, efficient, and real-world applications**.  
-Skilled in **STL, OOP, encryption, file handling, and ML algorithms**.  
-Proficient in **Python** for scripting and building machine learning models.  
-Currently advancing expertise in **ML models, AI-based automation, and secure application development**.
+Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building clean, efficient, and real-world applications.  
+- 🛠️ Skilled in **STL, OOP, Encryption, and File Handling**.  
+- 🐍 Proficient in **Python** for scripting and predictive modeling.  
+- 🤖 Currently advancing expertise in **AI-based automation** and **secure application development**.
 
 ---
 
@@ -30,25 +33,37 @@ Currently advancing expertise in **ML models, AI-based automation, and secure ap
 
 | Category | Skills |
 | :--- | :--- |
-| **💻 Programming Languages** | <img src="https://skillicons.dev/icons?i=cpp,python" /> <br> `C++` `Python` |
-| **⚙️ Core Concepts** | `OOP` `STL` `File Handling` `Encryption` |
-| **🤖 ML Models** | `Naive Bayes` `KNN` `Decision Tree` `Random Forest` `Logistic Regression` `Regression` `SVM`|
-| **🔧 Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br> `Git/GitHub` `VS Code` |
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=cpp,python" /> <br> `C++` `Python` |
+| **⚙️ Core Concepts** | `OOP` `STL` `Data Structures` `File Handling` `Encryption` |
+| **🤖 ML Stack** | `Scikit-Learn` `NumPy` `Pandas` `Regression` `Decision Trees` `SVM` |
+| **🔧 Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> <br> `Git/GitHub` `VS Code` `Kali Linux` |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Status | Links |
+| :--- | :--- | :--- | :--- |
+| **FocusFlow App** | `C++` `STL` `OpenSSL` `libcurl` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Focus-Flow) |
+| **Smart ML Predictor** | `Python` `Scikit-Learn` `Streamlit` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [Live Demo](https://imran-dev-smartmlpredictor.streamlit.app/) |
+| **University Management** | `C++` `OOP` `File Handling` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/OOP_PROJECT_University_Management_System) |
 
 ---
 
 ### 🎓 Education
-- **Bachelor of Science in Computer Science** | *University of Central Punjab* | 2024 — 2028
-
+- **BS in Computer Science** | *University of Central Punjab* | 2024 — 2028
 
 ---
 
-### 🚀 Things I've Built
-| Project | Tech Stack | Status | Repository |
-| :--- | :--- | :--- | :--- |
-| **FocusFlow App** | `C++` `STL` `OpenSSL` `libcurl` `SAPI` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Focus-Flow) |
-| **Smart-ML-Predictorr** | `Python` `ML` `Logistic Regression` `KNN` ` Decision Tree` `Random Forest`  | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [Live Demo](https://imran-dev-smartmlpredictor.streamlit.app/) |
-| **University Management System** | `C++` `OOP` `File Handling` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/OOP_PROJECT_University_Management_System) |
+### 📊 GitHub Productivity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbuttcodes&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800" height="160" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imranbuttcodes&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
+</p>
 
+<br>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:2563EB,100:22D3EE&height=120&section=footer" width="100%" />
+  <sub><i>Engineered with focus on Scalability, Clean Code & Performance</i></sub>
+</div>
