@@ -56,11 +56,18 @@ Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building cl
 ---
 
 ### 📊 GitHub Productivity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbuttcodes&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800" height="160" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=imranbuttcodes&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranbuttcodes&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=imranbuttcodes&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbuttcodes&layout=compact&theme=tokyonight" />
+</p>
 <br>
 
 <div align="center">
