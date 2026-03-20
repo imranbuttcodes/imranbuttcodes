@@ -55,20 +55,7 @@ Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building cl
 
 ---
 
-### 📊 GitHub Productivity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranbuttcodes&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=imranbuttcodes&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbuttcodes&layout=compact&theme=tokyonight" />
-</p>
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:2563EB,100:22D3EE&height=120&section=footer" width="100%" />
