@@ -36,7 +36,7 @@ Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building cl
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=cpp,python" /> <br> `C++` `Python` |
 | **⚙️ Core Concepts** | `OOP` `STL` `Data Structures` `File Handling` `Encryption` |
 | **🤖 ML Stack** | `Scikit-Learn` `NumPy` `Pandas` `Regression` `Decision Trees` `SVM` |
-| **🔧 Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> <br> `Git/GitHub` `VS Code` `Kali Linux` |
+| **🔧 Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br> `Git/GitHub` `VS Code`|
 
 ---
 
