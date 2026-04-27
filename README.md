@@ -44,6 +44,7 @@ Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building cl
 
 | Project | Tech Stack | Status | Links |
 | :--- | :--- | :--- | :--- |
+| **PawGress** | `Python` `Streamlit` `Aupabase` | ![completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [Live Demo](https://paw-gress-skrag8cyj6fxnehqmabksl.streamlit.app/) |
 | **FocusFlow App** | `C++` `STL` `OpenSSL` `libcurl` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/Focus-Flow) |
 | **Smart ML Predictor** | `Python` `Scikit-Learn` `Streamlit` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [Live Demo](https://imran-dev-smartmlpredictor.streamlit.app/) |
 | **University Management** | `C++` `OOP` `File Handling` | ![Completed](https://img.shields.io/badge/Completed-2563EB?style=flat-square) | [View Repo](https://github.com/imranbuttcodes/OOP_PROJECT_University_Management_System) |
