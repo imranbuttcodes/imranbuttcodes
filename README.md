@@ -33,7 +33,7 @@ Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building cl
 | Category | Skills |
 | :--- | :--- |
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=cpp,python" /> <br> `C++` `Python` |
-| **⚙️ Core Concepts** | `OOP` `STL` `Data Structures` `File Handling` `Encryption` |
+| **⚙️ Core Concepts** | `OOP` `STL` `Data Structures` `File Handling` |
 | **🤖 ML Stack** | `Scikit-Learn` `NumPy` `Pandas` `Regression` `Decision Trees` `SVM` |
 | **🔧 Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br> `Git/GitHub` `VS Code`|
 
