@@ -23,8 +23,7 @@
 
 ### 📖 A Bit About Me
 Passionate **Aspiring Developer** and **ML Enthusiast** dedicated to building clean, efficient, and real-world applications.  
-- 🛠️ Skilled in **STL, OOP, Encryption, and File Handling**.  
-- 🐍 Proficient in **Python** for scripting and predictive modeling.  
+
 - 🤖 Currently advancing expertise in **AI-based automation** and **secure application development**.
 
 ---
