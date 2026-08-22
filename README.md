@@ -98,7 +98,7 @@ My current focus spans:
 ### Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
