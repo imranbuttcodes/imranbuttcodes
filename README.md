@@ -79,10 +79,9 @@ My current focus spans:
 ### Languages & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,html,css,javascript"/>
 </p>
 
-`Python` `C++` `SQL` `MySQL` `PostgreSQL`
 
 ### Backend & AI Infrastructure
 
